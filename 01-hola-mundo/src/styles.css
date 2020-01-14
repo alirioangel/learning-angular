@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+
+footer{
+    color: #fff;
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    width: 100vw;
+    height: 45px; 
+    padding: 0;
+    margin: 0;  
+    position: fixed;
+    bottom: 0px;
+}
+p{
+    padding: 0;
+    margin: 0;
+    align-self: center;
+}
+.grid{
+    display: grid;
+}
